@@ -1,0 +1,30 @@
+9Yards Media,9A,abc
+When Pigs Fly (food),W1,bcd
+Light As a Feather (health and beauty),L1,cde
+More Than Words (retail),M1,def
+Top It Off (fashion),T1,efg
+Bent Out of Shape Jewelry,B1,fgh
+To Each Their Own, LLC (beauty salon),T2,ghi
+Like You Mean It Productions,L2,hij
+What You Will Yoga,W2,ijk
+EBA’s (Everything But Anchovies),E1,jkl
+Soft As a Grape (clothing and retail),S1,klm
+Groupon,G1,lmn
+Influitive,I1,mno
+Spinfluence,S2,nop
+Intellivision,I2,opq
+Perficient (proficient, perfect, efficient),P1,pqr
+Omnilert,O1,qrs
+Technologent,T2,rst
+Securiteam,S3,stu
+Innometrics, I2,tuv
+Clickety Clack (game store),C1,uvw
+Horizons for Homeless Children,H1,vwx
+Superscapes,S4,wxy
+The Tiny Tassel,T3,xyz
+Mighty Mule (security),M2,yza
+Decorating Den Interiors,D1,cba
+Encore Electric, Inc.,E2,dbc
+Beet Box Cafe,B1,edc
+
+

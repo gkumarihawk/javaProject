@@ -1,0 +1,4 @@
+com/inventory/store/CompanyOrderSystem.class
+com/inventory/store/OrderManager.class
+com/inventory/store/AuthenticationManager.class
+com/inventory/store/ProductManager.class

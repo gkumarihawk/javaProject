@@ -1,0 +1,6 @@
+shoes,3
+laptop,5
+cells,8
+phone,10
+straws,25
+cups,2
